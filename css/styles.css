@@ -1,0 +1,13 @@
+#top {
+  background-color: black;
+}
+#top a 
+{
+  color:white;
+  text-decoration: none;
+  margin: auto;
+}
+#sitesearch {
+  height: 25px;
+  margin: 3px;
+}

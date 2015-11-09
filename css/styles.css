@@ -14,4 +14,18 @@
 
 nav div{
   text-decoration: none;
+  margin-bottom: 10px;
+
 }
+
+.stacklogo {
+    width: 200px;
+    position: absolute;
+
+}
+
+.exchangelogo{
+	width: 120px;
+	position: absolute;
+	margin-top: 5px;
+}   
